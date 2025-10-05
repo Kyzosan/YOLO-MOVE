@@ -98,13 +98,9 @@ Model YOLO (default: yolov8n.pt):
 ## 📁 Struktur Project
 
 ```
-yolov8-interactive/
-├── 📄 yolo_detect.py          # Main script
+./
+├── 📄 main.py          # Main script
 ├── 📄 install.sh              # Auto-install script
-├── 📄 requirements.txt        # Dependencies
-├── 📁 assets/                 # Sample images/videos
-│   ├── contoh.jpg
-│   └── demo.mp4
 ├── 📁 runs/detect/predict/    # Output directory
 └── 📄 README.md              # Dokumentasi ini
 ```
