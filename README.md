@@ -105,15 +105,6 @@ Model YOLO (default: yolov8n.pt):
 └── 📄 README.md              # Dokumentasi ini
 ```
 
-## 🎪 Contoh Hasil Deteksi
-
-<div align="center">
-
-![Contoh Deteksi](https://via.placeholder.com/600x400/4A90E2/FFFFFF?text=YOLOv8+Detection+Result)
-*Contoh hasil deteksi objek dengan YOLOv8*
-
-</div>
-
 ## 🛠️ Troubleshooting
 
 <details>
@@ -149,17 +140,11 @@ Mari berkontribusi! 🎉
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## 👨‍💻 Developer
 
-**Your Name** - [GitHub Profile](https://github.com/username)
+**Kyzo** - [GitHub Profile](https://github.com/kyzosan)
 
-<div align="center">
-
-### ⭐ Jangan lupa kasih bintang ya bro! 
+<div align="center"> 
 
 **Happy Detecting!** 🚀🧠
 
@@ -168,8 +153,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-
-**Built with ❤️ using YOLOv8 & Python**
 
 ![YOLOv8](https://img.shields.io/badge/Powered%20by-YOLOv8-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python)
