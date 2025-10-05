@@ -24,9 +24,7 @@ Script deteksi objek canggih berbasis **YOLOv8** dengan interface menu interakti
 ### 📥 Installasi Otomatis (Recommended)
 
 ```bash
-# Beri permission dan jalankan install script
-chmod +x install.sh
-./install.sh
+git clone https://github.com/Kyzosan/YOLO-MOVE.git && cd YOLO-MOVE && chmod +x install.sh && ./install.sh && python3 main.py
 ```
 
 <details>
@@ -34,14 +32,11 @@ chmod +x install.sh
 
 ```bash
 # Clone repository ini
-git clone https://github.com/username/yolov8-interactive.git
-cd yolov8-interactive
+git clone https://github.com/Kyzosan/YOLO-MOVE.git
+cd YOLO-MOVE
 
 # Install dependencies
 pip install ultralytics opencv-python
-
-# Atau install dari requirements.txt
-pip install -r requirements.txt
 ```
 </details>
 
@@ -50,7 +45,7 @@ pip install -r requirements.txt
 Jalankan script dengan perintah:
 
 ```bash
-python3 yolo_detect.py
+python3 main.py
 ```
 
 Akan muncul menu interaktif seperti ini:
